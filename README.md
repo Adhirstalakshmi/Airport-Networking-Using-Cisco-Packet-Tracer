@@ -71,3 +71,10 @@ B.E. Computer Science and Engineering
 St. Joseph's Institute of Technology
 
 ---
+## 📸 Project Screenshots
+
+### Airport Network Topology
+![Airport Topology](screenshot%201%20project.jpeg)
+
+### Network Configuration
+![Network Configuration](screenshot%202%20project.jpeg)
